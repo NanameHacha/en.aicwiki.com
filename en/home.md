@@ -1,0 +1,16 @@
+---
+title: English Wiki
+description: Alice in Cradle Wiki - Written by Alice in Cradle Wiki Editors
+published: true
+date: '2026-11-18T08:49:27.604Z'
+tags: []
+editor: markdown
+dateCreated: '2026-11-18T08:49:27.604Z'
+---
+
+> All content on english wiki has been translated from Simplified Chinese (zh-cn)，[Click here to switch to Simplified Chinese](https://cn.aicwiki.com)。
+{.is-info}
+
+> The english wiki has not yet been completed, you can choose to visit https://w.atwiki.jp/aliceincradle
+{.is-warning}
+
