@@ -13,4 +13,3 @@ dateCreated: '2026-11-27T06:47:49.916Z'
 
 > The english wiki has not yet been completed, you can choose to visit https://w.atwiki.jp/aliceincradle
 {.is-warning}
-
